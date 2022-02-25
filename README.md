@@ -3,5 +3,4 @@
 
 
 <!-- status bar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jjhyunjung&layout=compact&show_icons=true&theme=vue&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjhyunjung&layout=compact&theme=vue&hide_border=true" />
