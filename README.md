@@ -1,12 +1,5 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Jihyun, a Developer from :kr: Seoul, Republic of Korea 
-
-
-### About me
-
-### Interest
-
-### Latest Projects
+#### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+#### I am Jihyun, a Developer from :kr: Seoul, Republic of Korea 
 
 
 <!-- status bar -->
